@@ -54,7 +54,7 @@
 **git commit -m*save2fails**
 
 
-no conflicts
+*no conflicts*
 
 
 
